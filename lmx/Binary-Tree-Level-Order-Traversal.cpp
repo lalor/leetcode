@@ -48,7 +48,7 @@ class Solution {
                     levelCount = q.size();
                 }
             }
-            return reverse(r.begin(), r.end());
+            return reverse(
         }
 };
 
